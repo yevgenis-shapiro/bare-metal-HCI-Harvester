@@ -1,7 +1,7 @@
 <img width="2048" height="3044" alt="image" src="https://github.com/user-attachments/assets/867b7482-4dff-4e30-87be-1abc9356fb3d" />
 
 
-## Harvester Virtualization | Platform
+## Harvester | Hyperconverged Infrastructure
 Harvester is an open-source hyperconverged infrastructure (HCI) solution developed by SUSE (formerly by Rancher Labs). It provides virtualization and Kubernetes integration on bare-metal servers, designed to be an alternative to proprietary virtualization stacks like VMware vSphere, Proxmox, or Nutanix, but built entirely with open-source technologies.
 
 
