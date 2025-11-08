@@ -2,7 +2,7 @@
 
 
 ## Harvester | Hyperconverged Infrastructure
-Harvester is an open-source hyperconverged infrastructure (HCI) solution developed by SUSE (formerly by Rancher Labs). It provides virtualization and Kubernetes integration on bare-metal servers, designed to be an alternative to proprietary virtualization stacks like VMware vSphere, Proxmox, or Nutanix, but built entirely with open-source technologies.
+Harvester is a modern hyperconverged infrastructure (HCI) solution built for bare metal servers using enterprise-grade open-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. Designed for users looking for a flexible and affordable solution to run cloud-native and virtual machine (VM) workloads in your datacenter and at the edge, Harvester provides a single pane of glass for virtualization and cloud-native workload management.
 
 Hyperconverged infrastructure (HCI) is
 an IT framework that combines compute, storage, networking, and virtualization into a single, software-defined system that runs on commodity hardware. This model simplifies data center management by consolidating traditionally separate components into a single platform managed by a unified software interface, leading to lower costs, greater agility, and easier scalability. HCI pools resources, making them easy to allocate to virtual machines as needed
